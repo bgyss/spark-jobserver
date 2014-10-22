@@ -9,5 +9,5 @@ test-reports/
 .vagrant
 
 # ignore deployment configs
-config/*.conf
-config/*.sh
+job-server/config/*.conf
+job-server/config/*.sh
